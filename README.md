@@ -1,1 +1,1 @@
-# resources_api
+# resources-api
